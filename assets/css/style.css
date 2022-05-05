@@ -1,0 +1,36 @@
+*{
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.background-pink{
+
+  background-color: #e83e8c;
+
+}
+
+.logo-superior{
+  max-height: 50px;
+}
+
+.hero h1{
+  font-size: 3.75em;
+}
+
+.logo-inferior{
+  max-height: 100px;
+
+}
+
+.caja-pagos{
+  color: white;
+  font-size: 2.5em;
+}
+.iconosdepago{
+  font-size: 2em;
+}
+.aceptamos h2{
+  font-size: 0.99em;
+  padding-top: 10%;
+}
+
